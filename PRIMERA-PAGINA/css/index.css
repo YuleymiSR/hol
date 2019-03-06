@@ -1,0 +1,89 @@
+body{
+    background-image: url("../img/fondo.png")
+}
+
+#imglogo{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+#imgcodigo{
+    width: 12%;
+    height: 9%;
+}
+
+#section1{
+    border: 1px solid red;
+    width: 55%;
+
+}
+
+#section2{
+    border: 1px solid blue;
+    width: 44%;
+}
+
+
+#navegar{
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    background-color: darkcyan;
+}
+
+a{
+    height: 30px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tablaobj{
+    width: 80%;
+    border: 1px solid black;
+}
+
+/* tr{
+    border: 1px solid black;
+} */
+
+td{
+    border: 1px solid black;
+}
+
+#t1{
+    display: flex;
+    justify-content: center;
+}
+
+.imggato{
+    width: 280px;
+    height: 150px;
+}
+
+a{
+    border: 1px solid black;
+
+}
+
+.cel1{
+    width: 1%;
+}
+
+.cel2{
+    width: 65%;
+}
+
+#t2{
+    display: flex;
+    justify-content: center;
+}
+
+#p1{
+    width: 80%;
+    border: 1px solid black;
+}
+
+
